@@ -1,5 +1,7 @@
 import React from "react";
+// Styles
 import "./App.css";
+// Components
 import SmurfList from "./SmurfList";
 import AddSmurfForm from "./AddSmurfForm";
 
